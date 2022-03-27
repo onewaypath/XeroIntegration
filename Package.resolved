@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NetworkRequestTools",
+        "repositoryURL": "git@github.com:onewaypath/NetworkRequestTools.git",
+        "state": {
+          "branch": null,
+          "revision": "bb73df8375e87b4d7d4bbb7f7635ac849c45c9a1",
+          "version": "1.0.10"
+        }
+      },
+      {
+        "package": "UnixIntegrationTools",
+        "repositoryURL": "git@github.com:onewaypath/UnixIntegrationTools.git",
+        "state": {
+          "branch": null,
+          "revision": "31d39a697bcdd824730f269615f54ef580c5dbd1",
+          "version": "2.0.5"
+        }
+      },
+      {
+        "package": "XeroDecoder",
+        "repositoryURL": "git@github.com:onewaypath/XeroDecoder.git",
+        "state": {
+          "branch": null,
+          "revision": "070d9d2ae2f2be5587298d766b41c825f6327748",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
