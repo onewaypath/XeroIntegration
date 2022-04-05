@@ -15,7 +15,7 @@ open class BankAccountRequest<Client : TokenRequestParticulars> : NetworkRequest
     public var tenantID: String
     
     
-    override var headers: [String : String]? {
+    open override var headers: [String : String]? {
                
         get {
 

@@ -51,20 +51,6 @@
                BlueprintName = "XeroIntegrationTests"
                ReferencedContainer = "container:">
             </BuildableReference>
-            <SkippedTests>
-               <Test
-                  Identifier = "XeroIntegrationTests/testGetWriteTokenOWPLS()">
-               </Test>
-               <Test
-                  Identifier = "XeroIntegrationTests/testLoadTokenOWPLS()">
-               </Test>
-               <Test
-                  Identifier = "XeroIntegrationTests/testReadTokenOWPLS()">
-               </Test>
-               <Test
-                  Identifier = "XeroIntegrationTests/testTokenIsValidOWPLS()">
-               </Test>
-            </SkippedTests>
          </TestableReference>
       </Testables>
    </TestAction>
