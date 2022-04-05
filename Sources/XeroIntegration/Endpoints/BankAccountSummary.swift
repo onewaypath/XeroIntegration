@@ -47,7 +47,7 @@ open class BankAccountRequest<Client : TokenRequestParticulars> : NetworkRequest
     }
     
     
-    init(tenantID: String, startDate:String, endDate:String) {
+   public init(tenantID: String, startDate:String, endDate:String) {
         
        
         self.tenantID = tenantID
